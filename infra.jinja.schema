@@ -1,0 +1,3 @@
+imports:
+- path: https://raw.githubusercontent.com/40net-cloud/fortinet-gcp-solutions/master/FortiGate/modules-dm/singlevm2.jinja
+  name: singlevm2.jinja
